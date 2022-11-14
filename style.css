@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    box-sizing: border-box;
+
+}
+h2{
+    margin-top: -2400px;
+    padding-left: 20px;
+    padding-top: 5px;
+    color: white;
+    font-size: 90px;
+}
+
+
+img {
+    width: 100%;
+    height: 2500px;
+    position: relative;
+}
+
+.center{
+    text-align: center;
+    color: white;
+    margin-top: 900px;
+    font-size: 120px;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-top: -200px; 
+    color: white;
+}
+.right{
+    margin-top: 100px;
+    color: white;
+    margin-right: 60px;
+    font-size: 90px;
+}
